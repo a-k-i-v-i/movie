@@ -1,0 +1,16 @@
+@import './styles/header/header.scss';
+@import './styles/popular/popular.scss';
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1340px;
+    margin: 0 auto;
+}
+body{
+    background: #f2ebeb;
+}
